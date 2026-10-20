@@ -1,0 +1,23 @@
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Local configuration overrides
+*config.local.php
